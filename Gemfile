@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem "haml-rails", "~> 1.0"
-
+gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
 
 group :development, :test do
