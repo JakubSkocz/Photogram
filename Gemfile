@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem "haml-rails", "~> 1.0"
 gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
+gem 'simple_form'
 
 
 group :development, :test do
